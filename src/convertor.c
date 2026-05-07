@@ -41,5 +41,6 @@ int main()
             scanf(" %c", &flag);
         }
     }
+    printf("Thank you for using the RGB to CMYK converter.\n");
     return 0;
 }
